@@ -12,7 +12,7 @@ The primary goal of this repository is to provide a safe and controlled space fo
 
 This repository contains a few simple files to help you get started with your Git exercises:
 
-*   `help.txt`: A text file that might contain initial instructions, hints, or a checklist of Git commands to try. It's also a good candidate for practicing modifications, additions, and deletions.
+*   `help.txt`: A text file designed for Git practice. It may contain initial instructions, hints, a checklist of Git commands to try, and now also includes helpful information about development resources. It's an excellent candidate for practicing modifications, additions, and deletions.
 *   `motabaigan.txt`: A plain text file to use for tracking changes, practicing `git add`, `git commit`, `git diff`, and other file-related Git operations.
 
 ## Getting Started
