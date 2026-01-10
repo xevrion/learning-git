@@ -1,4 +1,3 @@
-```markdown
 # learning-git
 
 ## Overview
@@ -13,7 +12,7 @@ The primary goal of this repository is to provide a safe and controlled space fo
 
 This repository contains a few simple files to help you get started with your Git exercises:
 
-*   `help.txt`: A text file designed for Git practice. It may contain initial instructions, hints, a checklist of Git commands to try, and now also includes helpful information about development resources. It's an excellent candidate for practicing modifications, additions, and deletions.
+*   `help.txt`: A text file designed for Git practice. It may contain initial instructions, hints, a checklist of Git commands to try, and includes helpful information about development resources. **Recent updates have added more content to this file**, making it an even more valuable resource for your learning journey. It's an excellent candidate for practicing modifications, additions, and deletions.
 *   `motabaigan.txt`: A plain text file to use for tracking changes, practicing `git add`, `git commit`, `git diff`, and other file-related Git operations.
 *   `cheatsheet.md`: A comprehensive Git cheat sheet providing quick reference for essential and commonly used Git commands, organized by category (e.g., staging, branching, sharing, history). This file is a great resource to keep open while practicing.
 
@@ -127,4 +126,3 @@ If you find issues with the setup or have suggestions for improving its utility 
 ## License
 
 This project is intended for educational and personal learning purposes. As such, it does not carry a specific open-source license. You are free to clone, modify, and use it for your individual Git practice.
-```
