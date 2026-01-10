@@ -1,6 +1,6 @@
 # learning-git
 
-## Overview
+## Overview 
 
 Welcome to `learning-git`! This repository serves as a dedicated sandbox for individuals to practice Git commands, experiment with version control concepts, and deepen their understanding of how Git works without the risk of affecting a live project. It's an ideal environment for beginners to get hands-on experience with Git fundamentals.
 
