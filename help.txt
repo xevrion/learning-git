@@ -1,2 +1,6 @@
 we'll help you with development,
 you can use ohmygit.org which is a open source software to make you learn git very easily
+
+
+
+also we have added cheatsheet in the same repo, so you guys can easily learn from your seniors and other places.
